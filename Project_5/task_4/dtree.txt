@@ -1,0 +1,11 @@
+Pat? Some, Yes
+Pat? None, No
+Pat? Full, Hun?
+Hun? No, No
+Hun? Yes, Type?
+Type? Italian, No
+Type? Burger, Yes
+Type? Burger, Yes
+Type? Thai, Fri?
+Fri? No, No
+Fri? Yes, Yes

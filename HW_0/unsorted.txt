@@ -1,0 +1,8 @@
+Atkins,Ella,99
+Krishnan,Abhiram,102
+Kira,Barton,98
+Aohan,Mei,72
+Sandeep,Joe,88
+Zheyu,Wen,95
+Justin,Chang,100
+Andrew,Wang,105
